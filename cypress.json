@@ -1,0 +1,36 @@
+{
+    "reporterOptions": {
+        "charts": false,
+        "html": false,
+        "json": true,
+        "reportDir": "cypress/reports/mochawesome-report",
+        "reportFilename": "report",
+        "overwrite": false
+      },
+
+    "env": {
+        "stagingAdmin": "https://staging.authority.builders/admin",
+       
+        "devAdmin" : "https://dev.authority.builders/admin",
+
+        "testAdmin" : "https://test.authority.builders/admin",
+
+        "hotfixAdmin": "https://hotfix.authority.builders/admin",
+
+        "featureAdmin": "https://feature.authority.builders/admin",
+
+        "stagingCustomer": "https://staging.authority.builders",
+
+        "devCustomer": "https://dev.authority.builders",
+
+        "testCustomer": "https://test.authority.builders",
+
+        "hotfixCustomer": "https://hotfix.authority.builders",
+
+        "featureCustomer": "https://feature.authority.builders",
+
+        "allureResultsPath": "allure-results"
+    }
+    
+
+}

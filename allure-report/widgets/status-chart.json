@@ -1,0 +1,2081 @@
+[ {
+  "uid" : "562c9642a36e98a7",
+  "name" : "Content submitted col 5 calculations",
+  "time" : {
+    "start" : 1611255602663,
+    "stop" : 1611255612176,
+    "duration" : 9513
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d032e6d71379384a",
+  "name" : "Pitching no activity calculations",
+  "time" : {
+    "start" : 1611256997905,
+    "stop" : 1611257010348,
+    "duration" : 12443
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "687ba3b4590638bd",
+  "name" : "Pitching rejected col 4 calculations",
+  "time" : {
+    "start" : 1611257113603,
+    "stop" : 1611257120777,
+    "duration" : 7174
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a901bc244c9b0ca",
+  "name" : "Completion paying third party col 2 calculations",
+  "time" : {
+    "start" : 1611255416701,
+    "stop" : 1611255424071,
+    "duration" : 7370
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b9230b46ce64bb79",
+  "name" : "All live details col 1 calculations",
+  "time" : {
+    "start" : 1611255248364,
+    "stop" : 1611255257618,
+    "duration" : 9254
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46ab76ec00338442",
+  "name" : "Completion paying third party col 3 calculations",
+  "time" : {
+    "start" : 1611255424095,
+    "stop" : 1611255431834,
+    "duration" : 7739
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc0ce0ce8efa320a",
+  "name" : "Ordered content col 3 calculations",
+  "time" : {
+    "start" : 1611256347562,
+    "stop" : 1611256355021,
+    "duration" : 7459
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5529a12c359c5ec8",
+  "name" : "Content formatted col 1 calculations",
+  "time" : {
+    "start" : 1611255489536,
+    "stop" : 1611255498293,
+    "duration" : 8757
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a578c5e32a2c760",
+  "name" : "Live url review table count good",
+  "time" : {
+    "start" : 1611256034192,
+    "stop" : 1611256040928,
+    "duration" : 6736
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca0165b3c7556899",
+  "name" : "Pending live url review col 6 calculations",
+  "time" : {
+    "start" : 1611256731568,
+    "stop" : 1611256738500,
+    "duration" : 6932
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ac8d91fb8f7b649b",
+  "name" : "Pending payment writers col 2 calculations",
+  "time" : {
+    "start" : 1611256862560,
+    "stop" : 1611256871101,
+    "duration" : 8541
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db44aeb970fc9741",
+  "name" : "Completion paying third party col 1 calculations",
+  "time" : {
+    "start" : 1611255407254,
+    "stop" : 1611255416675,
+    "duration" : 9421
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "933332500acc7c17",
+  "name" : "Approving title col 5 calculations",
+  "time" : {
+    "start" : 1611255357478,
+    "stop" : 1611255364418,
+    "duration" : 6940
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a401679dcbec847",
+  "name" : "Format content col 5 calculations",
+  "time" : {
+    "start" : 1611255932708,
+    "stop" : 1611255939570,
+    "duration" : 6862
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "58dd5dd51e33360",
+  "name" : "Pitching no activity col 4 calculations",
+  "time" : {
+    "start" : 1611257033311,
+    "stop" : 1611257040429,
+    "duration" : 7118
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1300fb5ff855ac00",
+  "name" : "Approving title col 2 calculations",
+  "time" : {
+    "start" : 1611255335512,
+    "stop" : 1611255343675,
+    "duration" : 8163
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8fbed2409c2b6043",
+  "name" : "Pending approvals col 5 calculations",
+  "time" : {
+    "start" : 1611256646151,
+    "stop" : 1611256652874,
+    "duration" : 6723
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d998efce7bf3bdf4",
+  "name" : "All Content table count good",
+  "time" : {
+    "start" : 1611255215663,
+    "stop" : 1611255220744,
+    "duration" : 5081
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "561fe74d31297bf9",
+  "name" : "Pitched submitted col 2 calculations",
+  "time" : {
+    "start" : 1611256942785,
+    "stop" : 1611256950185,
+    "duration" : 7400
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d89e8a686122305",
+  "name" : "New orders calculations",
+  "time" : {
+    "start" : 1611256057137,
+    "stop" : 1611256110295,
+    "duration" : 53158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3ba282309610ef4",
+  "name" : "Paid bloggers col 2 calculations",
+  "time" : {
+    "start" : 1611256418842,
+    "stop" : 1611256425984,
+    "duration" : 7142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e25c8defe9ce8fa5",
+  "name" : "All live details col 4 calculations",
+  "time" : {
+    "start" : 1611255273226,
+    "stop" : 1611255281931,
+    "duration" : 8705
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c6da99d88aa8fe6d",
+  "name" : "All live details col 5 calculations",
+  "time" : {
+    "start" : 1611255281955,
+    "stop" : 1611255289033,
+    "duration" : 7078
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1fdc97201aedc5e7",
+  "name" : "Ordered content col 5 calculations",
+  "time" : {
+    "start" : 1611256363471,
+    "stop" : 1611256370482,
+    "duration" : 7011
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d897be21eba565a",
+  "name" : "View Invoice calculations",
+  "time" : {
+    "start" : 1611257232982,
+    "stop" : 1611257243635,
+    "duration" : 10653
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d1bdd4fb5ac67ea0",
+  "name" : "Pending payment writers col 3 calculations",
+  "time" : {
+    "start" : 1611256871111,
+    "stop" : 1611256878799,
+    "duration" : 7688
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4136b838ca26956d",
+  "name" : "Approving Title calculations",
+  "time" : {
+    "start" : 1611255315937,
+    "stop" : 1611255328259,
+    "duration" : 12322
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "188b30a1ca579817",
+  "name" : "Content submitted no activity col 6 calculations",
+  "time" : {
+    "start" : 1611255695459,
+    "stop" : 1611255702615,
+    "duration" : 7156
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3071bf766bafb2ae",
+  "name" : "Pitching rejected col 1 calculations",
+  "time" : {
+    "start" : 1611257090033,
+    "stop" : 1611257098091,
+    "duration" : 8058
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "124c637c29aafbf1",
+  "name" : "Content submitted no activity table count good",
+  "time" : {
+    "start" : 1611255702639,
+    "stop" : 1611255708255,
+    "duration" : 5616
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28174be10a9b1907",
+  "name" : "Live url col 6 calculations",
+  "time" : {
+    "start" : 1611256026828,
+    "stop" : 1611256034168,
+    "duration" : 7340
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d5dff3f2eabbf8c7",
+  "name" : "View invoice col 3 calculations",
+  "time" : {
+    "start" : 1611257262748,
+    "stop" : 1611257270095,
+    "duration" : 7347
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d4bb5c80952fa67",
+  "name" : "View invoice col 1 calculations",
+  "time" : {
+    "start" : 1611257243658,
+    "stop" : 1611257254861,
+    "duration" : 11203
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c7aed5be439f48f",
+  "name" : "All content col 5 calculations",
+  "time" : {
+    "start" : 1611255201091,
+    "stop" : 1611255208858,
+    "duration" : 7767
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f27ceb64c100c7d",
+  "name" : "Content formatted col 6 calculations",
+  "time" : {
+    "start" : 1611255529444,
+    "stop" : 1611255537808,
+    "duration" : 8364
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56726d36f7725fcd",
+  "name" : "Pending payment writers col 4 calculations",
+  "time" : {
+    "start" : 1611256878825,
+    "stop" : 1611256887067,
+    "duration" : 8242
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9747cd35e5ee820e",
+  "name" : "Content submitted col 2 calculations",
+  "time" : {
+    "start" : 1611255579116,
+    "stop" : 1611255587329,
+    "duration" : 8213
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d95a65054b25924",
+  "name" : "Content submitted no activity col 4 calculations",
+  "time" : {
+    "start" : 1611255679361,
+    "stop" : 1611255687202,
+    "duration" : 7841
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4afaf71b288f7947",
+  "name" : "Pending payment bloggers col 6 calculations",
+  "time" : {
+    "start" : 1611256810699,
+    "stop" : 1611256818198,
+    "duration" : 7499
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c765bc5b04adc97a",
+  "name" : "Content submitted no activity col 1 calculations",
+  "time" : {
+    "start" : 1611255655379,
+    "stop" : 1611255664310,
+    "duration" : 8931
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9bbcf2b69918cac3",
+  "name" : "Pending payment writers col 6 calculations",
+  "time" : {
+    "start" : 1611256895440,
+    "stop" : 1611256903241,
+    "duration" : 7801
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7abb6a994f5c045",
+  "name" : "All live details col 2 calculations",
+  "time" : {
+    "start" : 1611255257643,
+    "stop" : 1611255265608,
+    "duration" : 7965
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "479c1f3cbe213feb",
+  "name" : "Review Content table count good",
+  "time" : {
+    "start" : 1611257214321,
+    "stop" : 1611257219435,
+    "duration" : 5114
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4015f05dd8ea5ebe",
+  "name" : "Order content col 4 calculations",
+  "time" : {
+    "start" : 1611256274693,
+    "stop" : 1611256282107,
+    "duration" : 7414
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cff37538e562ce25",
+  "name" : "Content submitted no activity calculations",
+  "time" : {
+    "start" : 1611255643149,
+    "stop" : 1611255655345,
+    "duration" : 12196
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a1d70ae489737c2",
+  "name" : "Approving title col 1 calculations",
+  "time" : {
+    "start" : 1611255328284,
+    "stop" : 1611255335488,
+    "duration" : 7204
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "95dc7dabfa9ef7e2",
+  "name" : "Pending approvals col 2 calculations",
+  "time" : {
+    "start" : 1611256592429,
+    "stop" : 1611256602383,
+    "duration" : 9954
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f1c9019bc50b2c2b",
+  "name" : "Pending live url review calculations",
+  "time" : {
+    "start" : 1611256684082,
+    "stop" : 1611256696176,
+    "duration" : 12094
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e5369eadb1d3d4c6",
+  "name" : "Content submitted rejected calculations",
+  "time" : {
+    "start" : 1611255723154,
+    "stop" : 1611255735451,
+    "duration" : 12297
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ffe7fab6381436a8",
+  "name" : "Completion (paying third party) review table count good",
+  "time" : {
+    "start" : 1611255454647,
+    "stop" : 1611255460170,
+    "duration" : 5523
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c950f4eb7095122a",
+  "name" : "Pitching rejected col 2 calculations",
+  "time" : {
+    "start" : 1611257098123,
+    "stop" : 1611257106282,
+    "duration" : 8159
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "164d33b6ddd1b4d8",
+  "name" : "Pitching rejected col 6 calculations",
+  "time" : {
+    "start" : 1611257128088,
+    "stop" : 1611257135564,
+    "duration" : 7476
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "531310c565810c9d",
+  "name" : "Ordered content col 2 calculations",
+  "time" : {
+    "start" : 1611256339208,
+    "stop" : 1611256347541,
+    "duration" : 8333
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a2476575ff5dc573",
+  "name" : "Pending payment bloggers col 1 calculations",
+  "time" : {
+    "start" : 1611256769741,
+    "stop" : 1611256780447,
+    "duration" : 10706
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "433eac52e2901f51",
+  "name" : "Content submitted rejected col 2 calculations",
+  "time" : {
+    "start" : 1611255742786,
+    "stop" : 1611255750179,
+    "duration" : 7393
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4d3be45d9b26e95",
+  "name" : "All content col 2 calculations",
+  "time" : {
+    "start" : 1611255176164,
+    "stop" : 1611255185305,
+    "duration" : 9141
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe54ef56d7edbfe5",
+  "name" : "Pitching rejected calculations",
+  "time" : {
+    "start" : 1611257077516,
+    "stop" : 1611257090005,
+    "duration" : 12489
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c199b8b33df44c10",
+  "name" : "All live details table count good",
+  "time" : {
+    "start" : 1611255297284,
+    "stop" : 1611255302198,
+    "duration" : 4914
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb7d9433e0c68997",
+  "name" : "Content formatted calculations",
+  "time" : {
+    "start" : 1611255476315,
+    "stop" : 1611255489503,
+    "duration" : 13188
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "19c7f46cd0fa7b79",
+  "name" : "View invoice col 5 calculations",
+  "time" : {
+    "start" : 1611257277337,
+    "stop" : 1611257286560,
+    "duration" : 9223
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bfd1a612a01478ef",
+  "name" : "Paid writers col 2 calculations",
+  "time" : {
+    "start" : 1611256495590,
+    "stop" : 1611256502951,
+    "duration" : 7361
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "811123a8a931f865",
+  "name" : "Content formatted col 3 calculations",
+  "time" : {
+    "start" : 1611255505727,
+    "stop" : 1611255512928,
+    "duration" : 7201
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "932a832dade60cfc",
+  "name" : "Review content col 5 calculations",
+  "time" : {
+    "start" : 1611257199457,
+    "stop" : 1611257207148,
+    "duration" : 7691
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4af7e016be1dc88",
+  "name" : "Pending approvals calculations",
+  "time" : {
+    "start" : 1611256550351,
+    "stop" : 1611256585417,
+    "duration" : 35066
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "185cc02a5acc6ee9",
+  "name" : "All col 4 calculations",
+  "time" : {
+    "start" : 1611255112826,
+    "stop" : 1611255120540,
+    "duration" : 7714
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ffbffb557239ebe3",
+  "name" : "Content submitted calculations",
+  "time" : {
+    "start" : 1611255559329,
+    "stop" : 1611255570546,
+    "duration" : 11217
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6812e5e4434d31f",
+  "name" : "Pending approvals table count good",
+  "time" : {
+    "start" : 1611256660164,
+    "stop" : 1611256665119,
+    "duration" : 4955
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a172da043a9ea61",
+  "name" : "View invoice col 6 calculations",
+  "time" : {
+    "start" : 1611257286577,
+    "stop" : 1611257293700,
+    "duration" : 7123
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a8a737249f45c4d",
+  "name" : "Pending payment writers review calculations",
+  "time" : {
+    "start" : 1611256839110,
+    "stop" : 1611256853807,
+    "duration" : 14697
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a639dd45bcdcd931",
+  "name" : "Paid bloggers col 3 calculations",
+  "time" : {
+    "start" : 1611256426007,
+    "stop" : 1611256433557,
+    "duration" : 7550
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2422d2236990fbc7",
+  "name" : "Pending approvals col 6 calculations",
+  "time" : {
+    "start" : 1611256652893,
+    "stop" : 1611256660141,
+    "duration" : 7248
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f5f6d40a42085830",
+  "name" : "Paid bloggers col 5 calculations",
+  "time" : {
+    "start" : 1611256440641,
+    "stop" : 1611256449413,
+    "duration" : 8772
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87865b98e0f43a32",
+  "name" : "Creating title col 6 calculations",
+  "time" : {
+    "start" : 1611255856255,
+    "stop" : 1611255866224,
+    "duration" : 9969
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ad9e006e468a89",
+  "name" : "Order content col 3 calculations",
+  "time" : {
+    "start" : 1611256267532,
+    "stop" : 1611256274672,
+    "duration" : 7140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68b9e284230e75cd",
+  "name" : "All content col 4 calculations",
+  "time" : {
+    "start" : 1611255192482,
+    "stop" : 1611255201069,
+    "duration" : 8587
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "980beb30ff0dc0bb",
+  "name" : "Ordered content col 1 calculations",
+  "time" : {
+    "start" : 1611256332153,
+    "stop" : 1611256339184,
+    "duration" : 7031
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ca721c226b12dc6",
+  "name" : "Pending payment bloggers col 4 calculations",
+  "time" : {
+    "start" : 1611256794673,
+    "stop" : 1611256802288,
+    "duration" : 7615
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de5f0a95c8ddcc53",
+  "name" : "Pitched submitted col 3 calculations",
+  "time" : {
+    "start" : 1611256950207,
+    "stop" : 1611256957342,
+    "duration" : 7135
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38dce46cd13d4e4a",
+  "name" : "Pending payment bloggers review calculations",
+  "time" : {
+    "start" : 1611256757060,
+    "stop" : 1611256769727,
+    "duration" : 12667
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d11881529df4903f",
+  "name" : "All content col 6 calculations",
+  "time" : {
+    "start" : 1611255208878,
+    "stop" : 1611255215637,
+    "duration" : 6759
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ee8874b9564b532",
+  "name" : "Completion paying third party col 6 calculations",
+  "time" : {
+    "start" : 1611255446814,
+    "stop" : 1611255454617,
+    "duration" : 7803
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3cba1a7ddd3c068",
+  "name" : "Ordered Content table count good",
+  "time" : {
+    "start" : 1611256379660,
+    "stop" : 1611256384652,
+    "duration" : 4992
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e528c36bfe02a096",
+  "name" : "Pending payment writers col 5 calculations",
+  "time" : {
+    "start" : 1611256887092,
+    "stop" : 1611256895418,
+    "duration" : 8326
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e67955dad3c66fb",
+  "name" : "All col 1 calculations",
+  "time" : {
+    "start" : 1611255089184,
+    "stop" : 1611255098084,
+    "duration" : 8900
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd93b45543714541",
+  "name" : "Pitched submitted col 6 calculations",
+  "time" : {
+    "start" : 1611256972355,
+    "stop" : 1611256979328,
+    "duration" : 6973
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c67efaf4527df4",
+  "name" : "Creating title calculations",
+  "time" : {
+    "start" : 1611255798322,
+    "stop" : 1611255812032,
+    "duration" : 13710
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a0a190bba32c6cc",
+  "name" : "All col 2 calculations",
+  "time" : {
+    "start" : 1611255098113,
+    "stop" : 1611255105248,
+    "duration" : 7135
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7237ea8519f839d1",
+  "name" : "Creating title col 5 calculations",
+  "time" : {
+    "start" : 1611255849134,
+    "stop" : 1611255856226,
+    "duration" : 7092
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12b11f0bb0c74cba",
+  "name" : "Pitching no activity col 1 calculations",
+  "time" : {
+    "start" : 1611257010376,
+    "stop" : 1611257017732,
+    "duration" : 7356
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5892249218df4d90",
+  "name" : "Order content col 6 calculations",
+  "time" : {
+    "start" : 1611256289559,
+    "stop" : 1611256298179,
+    "duration" : 8620
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b225f86c7e891883",
+  "name" : "Creating title col 2 calculations",
+  "time" : {
+    "start" : 1611255822355,
+    "stop" : 1611255831532,
+    "duration" : 9177
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "43ab5b3ed875e03",
+  "name" : "New orders col 6 calculations",
+  "time" : {
+    "start" : 1611256200781,
+    "stop" : 1611256207446,
+    "duration" : 6665
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78eab3535a9029a0",
+  "name" : "Order Content table count good",
+  "time" : {
+    "start" : 1611256298209,
+    "stop" : 1611256303813,
+    "duration" : 5604
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "67ed04bcec00c537",
+  "name" : "All col 5 calculations",
+  "time" : {
+    "start" : 1611255120562,
+    "stop" : 1611255128685,
+    "duration" : 8123
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a70b4874127e822d",
+  "name" : "Content submitted rejected col 3 calculations",
+  "time" : {
+    "start" : 1611255750208,
+    "stop" : 1611255757436,
+    "duration" : 7228
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ca3579bd4fdb016",
+  "name" : "All col 3 calculations",
+  "time" : {
+    "start" : 1611255105268,
+    "stop" : 1611255112806,
+    "duration" : 7538
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4fa0861b6590a443",
+  "name" : "Approving Title table count good",
+  "time" : {
+    "start" : 1611255371399,
+    "stop" : 1611255376634,
+    "duration" : 5235
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5eecdb2debfe2ac3",
+  "name" : "Pitching no activity col 2 calculations",
+  "time" : {
+    "start" : 1611257017774,
+    "stop" : 1611257025738,
+    "duration" : 7964
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c238e3279e2a9da1",
+  "name" : "Paid bloggers col 1 calculations",
+  "time" : {
+    "start" : 1611256410560,
+    "stop" : 1611256418814,
+    "duration" : 8254
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc5129d7406a5236",
+  "name" : "Order content col 2 calculations",
+  "time" : {
+    "start" : 1611256258069,
+    "stop" : 1611256267504,
+    "duration" : 9435
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c03219fa89379ff8",
+  "name" : "All table count good",
+  "time" : {
+    "start" : 1611255135705,
+    "stop" : 1611255140564,
+    "duration" : 4859
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "982edd535ceb1f6",
+  "name" : "Creating title col 1 calculations",
+  "time" : {
+    "start" : 1611255812069,
+    "stop" : 1611255822322,
+    "duration" : 10253
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c6e542f553afb536",
+  "name" : "Content submitted table count good",
+  "time" : {
+    "start" : 1611255619855,
+    "stop" : 1611255625046,
+    "duration" : 5191
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7122caab039cf7b9",
+  "name" : "Review Content calculations",
+  "time" : {
+    "start" : 1611257155518,
+    "stop" : 1611257168121,
+    "duration" : 12603
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6fbbe8fdaa31ca26",
+  "name" : "Content submitted no activity col 5 calculations",
+  "time" : {
+    "start" : 1611255687227,
+    "stop" : 1611255695430,
+    "duration" : 8203
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9c6fe60e19038e4c",
+  "name" : "Completion paying third party col 5 calculations",
+  "time" : {
+    "start" : 1611255439381,
+    "stop" : 1611255446787,
+    "duration" : 7406
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "471424058dce8f82",
+  "name" : "All col 6 calculations",
+  "time" : {
+    "start" : 1611255128710,
+    "stop" : 1611255135679,
+    "duration" : 6969
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "833793a775e3e0a1",
+  "name" : "Live url col 2 calculations",
+  "time" : {
+    "start" : 1611255990189,
+    "stop" : 1611255999406,
+    "duration" : 9217
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "83bd4c92d90e63f7",
+  "name" : "New orders col 3 calculations",
+  "time" : {
+    "start" : 1611256134559,
+    "stop" : 1611256163660,
+    "duration" : 29101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a59d3eec2015e48c",
+  "name" : "Live url col 4 calculations",
+  "time" : {
+    "start" : 1611256007803,
+    "stop" : 1611256017349,
+    "duration" : 9546
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b597d5e327d10edf",
+  "name" : "Content submitted col 1 calculations",
+  "time" : {
+    "start" : 1611255570575,
+    "stop" : 1611255579076,
+    "duration" : 8501
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f337b34fc1d22256",
+  "name" : "Review content col 6 calculations",
+  "time" : {
+    "start" : 1611257207163,
+    "stop" : 1611257214297,
+    "duration" : 7134
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76e4fe03d96a74df",
+  "name" : "New orders col 1 calculations",
+  "time" : {
+    "start" : 1611256110375,
+    "stop" : 1611256120777,
+    "duration" : 10402
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e85bdc33707faa74",
+  "name" : "Content submitted no activity col 2 calculations",
+  "time" : {
+    "start" : 1611255664342,
+    "stop" : 1611255671686,
+    "duration" : 7344
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "692d38b744ed7690",
+  "name" : "Creating title table count good",
+  "time" : {
+    "start" : 1611255866251,
+    "stop" : 1611255871623,
+    "duration" : 5372
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4071e7e10ce2105",
+  "name" : "Approving title col 4 calculations",
+  "time" : {
+    "start" : 1611255350669,
+    "stop" : 1611255357459,
+    "duration" : 6790
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd8998f69b58d61d",
+  "name" : "Paid writers col 1 calculations",
+  "time" : {
+    "start" : 1611256488651,
+    "stop" : 1611256495563,
+    "duration" : 6912
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ecfa86eb8098db1",
+  "name" : "Creating title col 3 calculations",
+  "time" : {
+    "start" : 1611255831559,
+    "stop" : 1611255840603,
+    "duration" : 9044
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab6ecebf9947b85c",
+  "name" : "Order Content calculations",
+  "time" : {
+    "start" : 1611256236182,
+    "stop" : 1611256251138,
+    "duration" : 14956
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e87a3a556fe9f9d",
+  "name" : "Pitching no activity col 3 calculations",
+  "time" : {
+    "start" : 1611257025765,
+    "stop" : 1611257033288,
+    "duration" : 7523
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e1ea5ae66e2d5508",
+  "name" : "Format content col 2 calculations",
+  "time" : {
+    "start" : 1611255910717,
+    "stop" : 1611255918689,
+    "duration" : 7972
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ea1f832bcb4a277",
+  "name" : "Pitching rejected table count good",
+  "time" : {
+    "start" : 1611257135588,
+    "stop" : 1611257140766,
+    "duration" : 5178
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12f1b14158602e86",
+  "name" : "Pending live url review col 4 calculations",
+  "time" : {
+    "start" : 1611256717257,
+    "stop" : 1611256724482,
+    "duration" : 7225
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50dc46f2b8d2505",
+  "name" : "Pending payment bloggers col 3 calculations",
+  "time" : {
+    "start" : 1611256787630,
+    "stop" : 1611256794641,
+    "duration" : 7011
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ec64f1bfca362d0",
+  "name" : "View invoice col 2 calculations",
+  "time" : {
+    "start" : 1611257254901,
+    "stop" : 1611257262727,
+    "duration" : 7826
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "915b4262e2dca0ea",
+  "name" : "Content formatted table count good",
+  "time" : {
+    "start" : 1611255537817,
+    "stop" : 1611255542919,
+    "duration" : 5102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b0c17d3633f7d15",
+  "name" : "Content submitted rejected table count good",
+  "time" : {
+    "start" : 1611255779073,
+    "stop" : 1611255784306,
+    "duration" : 5233
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8dffdc1b02e5d9dc",
+  "name" : "Pitching no activity col 5 calculations",
+  "time" : {
+    "start" : 1611257040453,
+    "stop" : 1611257047653,
+    "duration" : 7200
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c8332be04cc00f2",
+  "name" : "Content submitted col 6 calculations",
+  "time" : {
+    "start" : 1611255612199,
+    "stop" : 1611255619827,
+    "duration" : 7628
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b9a3990a0cefbd9d",
+  "name" : "Creating title col 4 calculations",
+  "time" : {
+    "start" : 1611255840627,
+    "stop" : 1611255849122,
+    "duration" : 8495
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "61024f73edb1dc41",
+  "name" : "Pending payment writers review table count good",
+  "time" : {
+    "start" : 1611256903266,
+    "stop" : 1611256908423,
+    "duration" : 5157
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3da16295b28e6e92",
+  "name" : "Pending live url review col 2 calculations",
+  "time" : {
+    "start" : 1611256703330,
+    "stop" : 1611256710251,
+    "duration" : 6921
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c24b0024c92b9d22",
+  "name" : "Content formatted col 5 calculations",
+  "time" : {
+    "start" : 1611255520886,
+    "stop" : 1611255529415,
+    "duration" : 8529
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b67fcc5300ec759",
+  "name" : "Pitched submitted col 5 calculations",
+  "time" : {
+    "start" : 1611256965202,
+    "stop" : 1611256972332,
+    "duration" : 7130
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e507a35a222e779d",
+  "name" : "Format content col 3 calculations",
+  "time" : {
+    "start" : 1611255918714,
+    "stop" : 1611255925801,
+    "duration" : 7087
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e4116660da66fa5",
+  "name" : "Live url col 5 calculations",
+  "time" : {
+    "start" : 1611256017381,
+    "stop" : 1611256026790,
+    "duration" : 9409
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1af3bd249a343a24",
+  "name" : "View Invoice table count good",
+  "time" : {
+    "start" : 1611257293732,
+    "stop" : 1611257299096,
+    "duration" : 5364
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a04cc18317a48861",
+  "name" : "Paid bloggers col 4 calculations",
+  "time" : {
+    "start" : 1611256433580,
+    "stop" : 1611256440614,
+    "duration" : 7034
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a75e0a97b42cbd63",
+  "name" : "Order content col 1 calculations",
+  "time" : {
+    "start" : 1611256251170,
+    "stop" : 1611256258042,
+    "duration" : 6872
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0e695248149e6d6",
+  "name" : "Review content col 4 calculations",
+  "time" : {
+    "start" : 1611257192283,
+    "stop" : 1611257199435,
+    "duration" : 7152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9fc9c5561ef8db3d",
+  "name" : "Completion paying third party col 4 calculations",
+  "time" : {
+    "start" : 1611255431897,
+    "stop" : 1611255439354,
+    "duration" : 7457
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b784803d04343c31",
+  "name" : "Review content col 3 calculations",
+  "time" : {
+    "start" : 1611257183764,
+    "stop" : 1611257192259,
+    "duration" : 8495
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "acb4cdbe9400b042",
+  "name" : "Order content col 5 calculations",
+  "time" : {
+    "start" : 1611256282130,
+    "stop" : 1611256289476,
+    "duration" : 7346
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c02050552e70414",
+  "name" : "Review content col 1 calculations",
+  "time" : {
+    "start" : 1611257168155,
+    "stop" : 1611257176366,
+    "duration" : 8211
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a713a77bc7f902ff",
+  "name" : "Format content calculations",
+  "time" : {
+    "start" : 1611255888157,
+    "stop" : 1611255900271,
+    "duration" : 12114
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ddf9160c9c894e0",
+  "name" : "Paid writers table count good",
+  "time" : {
+    "start" : 1611256532528,
+    "stop" : 1611256537612,
+    "duration" : 5084
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0b29c97a39fc8e",
+  "name" : "Pending payment writers col 1 calculations",
+  "time" : {
+    "start" : 1611256853837,
+    "stop" : 1611256862528,
+    "duration" : 8691
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a9e8644d99466a42",
+  "name" : "All Content calculations",
+  "time" : {
+    "start" : 1611255154109,
+    "stop" : 1611255167806,
+    "duration" : 13697
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d8d7318d6abc0da",
+  "name" : "Paid writers col 6 calculations",
+  "time" : {
+    "start" : 1611256525541,
+    "stop" : 1611256532515,
+    "duration" : 6974
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12bfab7bd07dd4d8",
+  "name" : "Content submitted col 3 calculations",
+  "time" : {
+    "start" : 1611255587358,
+    "stop" : 1611255594545,
+    "duration" : 7187
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb5580c5b9e21118",
+  "name" : "Approving title col 3 calculations",
+  "time" : {
+    "start" : 1611255343697,
+    "stop" : 1611255350649,
+    "duration" : 6952
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d23e37f0540afdd9",
+  "name" : "Pending approvals col 1 calculations",
+  "time" : {
+    "start" : 1611256585467,
+    "stop" : 1611256592418,
+    "duration" : 6951
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "41eb96b572cdfd33",
+  "name" : "Pitched submitted col 1 calculations",
+  "time" : {
+    "start" : 1611256935693,
+    "stop" : 1611256942754,
+    "duration" : 7061
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0319ac662b9aae8",
+  "name" : "All live details col 3 calculations",
+  "time" : {
+    "start" : 1611255265634,
+    "stop" : 1611255273204,
+    "duration" : 7570
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a916a4151c7677d",
+  "name" : "Pitching no activity table count good",
+  "time" : {
+    "start" : 1611257055588,
+    "stop" : 1611257060723,
+    "duration" : 5135
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5fedb8fdf6c0fe03",
+  "name" : "New orders col 4 calculations",
+  "time" : {
+    "start" : 1611256163710,
+    "stop" : 1611256190431,
+    "duration" : 26721
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b57cadd93bd3c2a",
+  "name" : "Pitching no activity col 6 calculations",
+  "time" : {
+    "start" : 1611257047674,
+    "stop" : 1611257055544,
+    "duration" : 7870
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f696cb6c947c7925",
+  "name" : "Paid writers col 4 calculations",
+  "time" : {
+    "start" : 1611256510108,
+    "stop" : 1611256518608,
+    "duration" : 8500
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "882df2b4ef516279",
+  "name" : "Ordered content col 4 calculations",
+  "time" : {
+    "start" : 1611256355047,
+    "stop" : 1611256363449,
+    "duration" : 8402
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55b651f9dddce599",
+  "name" : "Content submitted col 4 calculations",
+  "time" : {
+    "start" : 1611255594573,
+    "stop" : 1611255602637,
+    "duration" : 8064
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "35aed7c01d944114",
+  "name" : "Content submitted rejected col 1 calculations",
+  "time" : {
+    "start" : 1611255735476,
+    "stop" : 1611255742742,
+    "duration" : 7266
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa3e7a275a62cb18",
+  "name" : "Paid bloggers  table count good",
+  "time" : {
+    "start" : 1611256457130,
+    "stop" : 1611256462318,
+    "duration" : 5188
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f4a5a6e093f141c",
+  "name" : "Content submitted rejected col 5 calculations",
+  "time" : {
+    "start" : 1611255764707,
+    "stop" : 1611255771742,
+    "duration" : 7035
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "907664840bf280fb",
+  "name" : "Pitched Submitted calculations",
+  "time" : {
+    "start" : 1611256922778,
+    "stop" : 1611256935650,
+    "duration" : 12872
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6bfdadcd3f9cc876",
+  "name" : "All live details col 6 calculations",
+  "time" : {
+    "start" : 1611255289054,
+    "stop" : 1611255297263,
+    "duration" : 8209
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "feb19d4fb9d779cb",
+  "name" : "All live details calculations",
+  "time" : {
+    "start" : 1611255234253,
+    "stop" : 1611255248337,
+    "duration" : 14084
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7621f93ad009693",
+  "name" : "New orders col 2 calculations",
+  "time" : {
+    "start" : 1611256120807,
+    "stop" : 1611256134524,
+    "duration" : 13717
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "605bb46ad510b149",
+  "name" : "Pending live url review col 3 calculations",
+  "time" : {
+    "start" : 1611256710276,
+    "stop" : 1611256717232,
+    "duration" : 6956
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d2bbbaf75409753d",
+  "name" : "Pending approvals col 4 calculations",
+  "time" : {
+    "start" : 1611256630793,
+    "stop" : 1611256646119,
+    "duration" : 15326
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e115e579da932b",
+  "name" : "All content col 1 calculations",
+  "time" : {
+    "start" : 1611255167835,
+    "stop" : 1611255176152,
+    "duration" : 8317
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e0b17430d679728",
+  "name" : "Paid writers col 5 calculations",
+  "time" : {
+    "start" : 1611256518630,
+    "stop" : 1611256525519,
+    "duration" : 6889
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b04247a9397bebe1",
+  "name" : "Content formatted col 4 calculations",
+  "time" : {
+    "start" : 1611255512960,
+    "stop" : 1611255520859,
+    "duration" : 7899
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "83eb9ba0c374a885",
+  "name" : "New orders col 5 calculations",
+  "time" : {
+    "start" : 1611256190500,
+    "stop" : 1611256200744,
+    "duration" : 10244
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e280f2ae97fdf6b1",
+  "name" : "Paid writers col 3 calculations",
+  "time" : {
+    "start" : 1611256502974,
+    "stop" : 1611256510068,
+    "duration" : 7094
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c47101491a767533",
+  "name" : "Pitched Submitted table count good",
+  "time" : {
+    "start" : 1611256979351,
+    "stop" : 1611256984386,
+    "duration" : 5035
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f1c50bce4175451",
+  "name" : "Pitching rejected col 3 calculations",
+  "time" : {
+    "start" : 1611257106310,
+    "stop" : 1611257113569,
+    "duration" : 7259
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87d69c27ef7f0ed2",
+  "name" : "Pending payment bloggers col 2 calculations",
+  "time" : {
+    "start" : 1611256780476,
+    "stop" : 1611256787609,
+    "duration" : 7133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0942be6b711f41a",
+  "name" : "Content submitted rejected col 6 calculations",
+  "time" : {
+    "start" : 1611255771752,
+    "stop" : 1611255779040,
+    "duration" : 7288
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4fe3e169ce9d49bc",
+  "name" : "Format content col 4 calculations",
+  "time" : {
+    "start" : 1611255925831,
+    "stop" : 1611255932683,
+    "duration" : 6852
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f91e0a6decd6177c",
+  "name" : "Pending live url review col 1 calculations",
+  "time" : {
+    "start" : 1611256696201,
+    "stop" : 1611256703304,
+    "duration" : 7103
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59f1fadcd0934748",
+  "name" : "View invoice col 4 calculations",
+  "time" : {
+    "start" : 1611257270117,
+    "stop" : 1611257277313,
+    "duration" : 7196
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2cd07d2e960040b3",
+  "name" : "Paid bloggers col 6 calculations",
+  "time" : {
+    "start" : 1611256449433,
+    "stop" : 1611256457106,
+    "duration" : 7673
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "13f55e89c39ba25a",
+  "name" : "All content col 3 calculations",
+  "time" : {
+    "start" : 1611255185332,
+    "stop" : 1611255192457,
+    "duration" : 7125
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32bb38eac957b45e",
+  "name" : "Pending payment bloggers col 5 calculations",
+  "time" : {
+    "start" : 1611256802310,
+    "stop" : 1611256810678,
+    "duration" : 8368
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4517d42f4b4863b",
+  "name" : "Ordered content col 6 calculations",
+  "time" : {
+    "start" : 1611256370506,
+    "stop" : 1611256379638,
+    "duration" : 9132
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f9261d143e6237f",
+  "name" : "Review content col 2 calculations",
+  "time" : {
+    "start" : 1611257176380,
+    "stop" : 1611257183711,
+    "duration" : 7331
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca3e15ed13b15fc3",
+  "name" : "Live url col 1 calculations",
+  "time" : {
+    "start" : 1611255982262,
+    "stop" : 1611255990162,
+    "duration" : 7900
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa4875cd25810a82",
+  "name" : "Format content col 1 calculations",
+  "time" : {
+    "start" : 1611255900300,
+    "stop" : 1611255910689,
+    "duration" : 10389
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c1010c882dfd7b8",
+  "name" : "Completion (paying third party) review calculations",
+  "time" : {
+    "start" : 1611255393017,
+    "stop" : 1611255407228,
+    "duration" : 14211
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9c9aea3e13bf9697",
+  "name" : "Live url review calculations",
+  "time" : {
+    "start" : 1611255967449,
+    "stop" : 1611255982197,
+    "duration" : 14748
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d829b18a3a1550c7",
+  "name" : "Pending live url review table count good",
+  "time" : {
+    "start" : 1611256738519,
+    "stop" : 1611256743531,
+    "duration" : 5012
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2539092d284c600a",
+  "name" : "Live url col 3 calculations",
+  "time" : {
+    "start" : 1611255999435,
+    "stop" : 1611256007775,
+    "duration" : 8340
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50639d14361e1fc5",
+  "name" : "Pitching rejected col 5 calculations",
+  "time" : {
+    "start" : 1611257120800,
+    "stop" : 1611257128079,
+    "duration" : 7279
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "983849f44ec051b6",
+  "name" : "Ordered Content calculations",
+  "time" : {
+    "start" : 1611256320239,
+    "stop" : 1611256332126,
+    "duration" : 11887
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f123733df6ed5670",
+  "name" : "Pitched submitted col 4 calculations",
+  "time" : {
+    "start" : 1611256957367,
+    "stop" : 1611256965179,
+    "duration" : 7812
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b5ccb7c191259a9",
+  "name" : "Pending payment bloggers review table count good",
+  "time" : {
+    "start" : 1611256818218,
+    "stop" : 1611256823295,
+    "duration" : 5077
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "542edc21ffaa6583",
+  "name" : "Approving title col 6 calculations",
+  "time" : {
+    "start" : 1611255364443,
+    "stop" : 1611255371377,
+    "duration" : 6934
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "86effff34725a1fb",
+  "name" : "Content submitted no activity col 3 calculations",
+  "time" : {
+    "start" : 1611255671710,
+    "stop" : 1611255679334,
+    "duration" : 7624
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "abe411926b991f71",
+  "name" : "Content formatted col 2 calculations",
+  "time" : {
+    "start" : 1611255498330,
+    "stop" : 1611255505700,
+    "duration" : 7370
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f5f7bd934696c20a",
+  "name" : "Format content col 6 calculations",
+  "time" : {
+    "start" : 1611255939591,
+    "stop" : 1611255946513,
+    "duration" : 6922
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0350a592703cd00",
+  "name" : "Paid writers calculations",
+  "time" : {
+    "start" : 1611256476585,
+    "stop" : 1611256488627,
+    "duration" : 12042
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "906d1802aeaa0c3",
+  "name" : "New orders table count good",
+  "time" : {
+    "start" : 1611256207467,
+    "stop" : 1611256211128,
+    "duration" : 3661
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dceb444671a8afa6",
+  "name" : "All calculations",
+  "time" : {
+    "start" : 1611255076831,
+    "stop" : 1611255089159,
+    "duration" : 12328
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a417db5bc6bc66dc",
+  "name" : "Content submitted rejected col 4 calculations",
+  "time" : {
+    "start" : 1611255757459,
+    "stop" : 1611255764683,
+    "duration" : 7224
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "94af67334148ea49",
+  "name" : "Format content table count good",
+  "time" : {
+    "start" : 1611255946536,
+    "stop" : 1611255951623,
+    "duration" : 5087
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9cf89517d7888924",
+  "name" : "Pending live url review col 5 calculations",
+  "time" : {
+    "start" : 1611256724503,
+    "stop" : 1611256731547,
+    "duration" : 7044
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6430d492b9f75e7e",
+  "name" : "Paid bloggers  calculations",
+  "time" : {
+    "start" : 1611256398309,
+    "stop" : 1611256410535,
+    "duration" : 12226
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30befeb3cb221a43",
+  "name" : "Pending approvals col 3 calculations",
+  "time" : {
+    "start" : 1611256602411,
+    "stop" : 1611256630764,
+    "duration" : 28353
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
